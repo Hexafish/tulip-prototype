@@ -1,0 +1,11 @@
+* {
+  font-family: Verdana;
+  font-size: 12px;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+.coinCountDisplay {
+  text-align: center;
+  font-size: 16px;
+}
